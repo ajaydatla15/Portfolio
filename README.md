@@ -82,8 +82,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Awards and Recognitions:
-- Student Excellency Award: Received the Student Excellency Award in recognition of my contributions to the department and outstanding academic achievement
-- Cheif Advaisor of TAM: Served as the Chief Advisor at TAM (Technology Awareness Month), an organization dedicated to acquainting students with the latest technological advancements.
-- Received LOA's: Received Letters of Appreciation for three consecutive years in recognition of student service.
-- Secretary of Associates for Supply chain Management: In recognition of my work I was apointed as Secretary of Associates of Supply Chin Management in Northern Illinois University.
+- **Student Excellency Award:** Received the Student Excellency Award in recognition of my contributions to the department and outstanding academic achievement
+- **Cheif Advaisor of TAM:** Served as the Chief Advisor at TAM (Technology Awareness Month), an organization dedicated to acquainting students with the latest technological advancements.
+- **Received LOA's:** Received Letters of Appreciation for three consecutive years in recognition of student service.
+- **Secretary of Associates for Supply chain Management:** In recognition of my work I was apointed as Secretary of Associates of Supply Chin Management in Northern Illinois University.
 
