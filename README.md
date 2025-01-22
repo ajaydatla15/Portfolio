@@ -5,13 +5,10 @@
 ## Education
 **Northern Illinois University | Illinois, United States**
 Master of Science in Management Information Systems, Specialization: Data Analytics [CGPA: 4]
-![image](https://github.com/user-attachments/assets/1b910e1a-a5d5-4b65-a50a-fb8be0eebd48)
 
 **Jawaharlal Nehru technology University | India**
 Electronics and Communication Engineering
 Recognition: Chief Advisor of TAM (Technology Awareness Month) 
-![image](/Users/ajayramaraju/Desktop/Slesha/GitHub/Grad pic.png)
-
 
 ## Work Experience
 **Data Analyst @ Aptium | United States (_April, 2024 – Present_)**									
@@ -36,7 +33,6 @@ Recognition: Chief Advisor of TAM (Technology Awareness Month)
 •	Designed unsupervised learning models for Image Generation like VAE and GAN to generate high-quality synthetic images from unlabelled data, enhancing training efficiency.
 •	Built a U-Net architecture for semantic segmentation of battery electrode microstructure images. Trained on a dataset of ~6,000 images, achieving an IoU score of 80%, improving the understanding of material composition.
 •	Created pivot tables, visual diagrams and products of interest for senior leadership to detect and trace data trends
-![image](https://github.com/user-attachments/assets/2975cc0a-b8bf-4d4e-8045-7108eefa365f)
 
 **Data Analyst @ "US Company"| United States (_January, 2021 - December, 2022_)**				      
 •	Implemented Role-Based Access Control (RBAC) and row-level security in Snowflake through the extraction of data from spreadsheets and loading it into the platform. 
@@ -44,8 +40,6 @@ Recognition: Chief Advisor of TAM (Technology Awareness Month)
 •	Designed personalized campaigns using Tableau to analyze departmental performance, increasing departmental efficiency and engagement by 30%.
 •	Designed social media content using Tableau, Buffer, and Excel to identify high-performing posts, optimize call-to-action placements, and revamp content strategy, resulting in an increase of 40% in audience engagement.
 •	Improved the quality of the data by integrating existing SQL-based workflows to automate manual tasks, resulting in a reduction of 15 hours per month previously spent on repetitive data preparation activities.
-![image](https://github.com/user-attachments/assets/256c0013-aef9-4d36-9e33-d014da331a9f)
-
 
 **Data Analyst @ Rite Academy | India (_January, 2023 – March, 2024_)**				      
 •	Automated financial data extraction using SQL and integrated it into a centralized data warehouse for streamlined reporting.
@@ -57,11 +51,8 @@ Recognition: Chief Advisor of TAM (Technology Awareness Month)
 •	Write complex SQL scripts to analyze data present in different Databases/Datawarehouse's like Snowflake, Teradata, Redshift.
 •	Create automated solutions using Databricks, Spark, Python, Snowflake, HTML.
 •	Create programs using python to read real time data from SDP (Streaming Data Platform) and perform analysis and load the data to Analytical Cloud Datawarehouse.
-![image](https://github.com/user-attachments/assets/57ce0d51-3911-4c34-b7ed-9385e25f5e0f)
 
-**Business Data analyst @ Vipro | India - Internship  (_January, 2023 – March, 2024_)**				      
-***India Company***	
-Business Data analyst - Internship								 May, 2018 – April, 2019
+**Business Data analyst @ Vipro | India - Internship  (_May, 2018 – April, 2019_)**				      
 •	Created daily, monthly reports, data models and over 10+ dynamic dashboards in Power BI and Tableau, cutting empowering real-time budget monitoring across the organization.
 •	Involve in the business and functional requirements gathering with different batch teams for creating new.
 •	Optimised SQL Queries to increase operational efficiency by automating repetitive tasks using Python in the data analysis workflow, reducing processing time by 40%.
@@ -70,7 +61,6 @@ Business Data analyst - Internship								 May, 2018 – April, 2019
 •	Perform thorough QA/QC before staging the data and validate various business critical reports. Assisted the team in developing business strategies based on data.
 •	Create scripts to clean up Database, Windows Server and created database links to retrieve data from multiple servers.
 •	Communicated complex data findings to non-technical teams, facilitating informed policy decisions and operational efficiency.
-![image](https://github.com/user-attachments/assets/7abbed0f-480a-457a-8abe-27add0b44328)
 
 ## Certifications
 •	SAP Associate Business Process Integration S-4 Hana. 
