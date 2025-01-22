@@ -36,10 +36,10 @@ Recognition: Chief Advisor of TAM (Technology Awareness Month)
 
 **Data Analyst @ "US Company"| United States (_January, 2021 - December, 2022_)**				      
 - Implemented Role-Based Access Control (RBAC) and row-level security in Snowflake through the extraction of data from spreadsheets and loading it into the platform. 
-•	Executed in-depth statistical analysis using SPSS to identify factors affecting conversion rates and coordinated with cross-functional teams to implement strategies that generated $1.5 million through conversions. 
-•	Designed personalized campaigns using Tableau to analyze departmental performance, increasing departmental efficiency and engagement by 30%.
-•	Designed social media content using Tableau, Buffer, and Excel to identify high-performing posts, optimize call-to-action placements, and revamp content strategy, resulting in an increase of 40% in audience engagement.
-•	Improved the quality of the data by integrating existing SQL-based workflows to automate manual tasks, resulting in a reduction of 15 hours per month previously spent on repetitive data preparation activities.
+- Executed in-depth statistical analysis using SPSS to identify factors affecting conversion rates and coordinated with cross-functional teams to implement strategies that generated $1.5 million through conversions.
+- Designed personalized campaigns using Tableau to analyze departmental performance, increasing departmental efficiency and engagement by 30%.
+- Designed social media content using Tableau, Buffer, and Excel to identify high-performing posts, optimize call-to-action placements, and revamp content strategy, resulting in an increase of 40% in audience engagement.
+- Improved the quality of the data by integrating existing SQL-based workflows to automate manual tasks, resulting in a reduction of 15 hours per month previously spent on repetitive data preparation activities.
 
 **Data Analyst @ Rite Academy | India (_January, 2023 – March, 2024_)**				      
 •	Automated financial data extraction using SQL and integrated it into a centralized data warehouse for streamlined reporting.
