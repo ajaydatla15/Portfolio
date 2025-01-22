@@ -42,28 +42,28 @@ Recognition: Chief Advisor of TAM (Technology Awareness Month)
 - Improved the quality of the data by integrating existing SQL-based workflows to automate manual tasks, resulting in a reduction of 15 hours per month previously spent on repetitive data preparation activities.
 
 **Data Analyst @ Rite Academy | India (_January, 2023 – March, 2024_)**				      
-•	Automated financial data extraction using SQL and integrated it into a centralized data warehouse for streamlined reporting.
-•	Designed a real-time Tableau dashboard to track KPIs (revenue, expenses, profit margins), reducing reporting time by 80% and enhancing decision-making efficiency.
-•	Conducted exploratory analysis using SQL and SPSS, leveraging what-if scenarios to evaluate the impact of pricing changes on enrolments and profitability.
-•	Presented Tableau insights recommending a tiered pricing strategy, boosting premium course enrolments by 10% and annual revenue by $50,000.
-•	Automated data transformations and reporting workflows using Excel Power Query and VBA, reducing manual effort by 60% and improving efficiency.
-•	Analysed classroom utilization, faculty workloads, and material usage using SQL; designed Power BI dashboards to optimize resource allocation, reducing operational costs by 12% ($25,000 annually).
-•	Write complex SQL scripts to analyze data present in different Databases/Datawarehouse's like Snowflake, Teradata, Redshift.
-•	Create automated solutions using Databricks, Spark, Python, Snowflake, HTML.
-•	Create programs using python to read real time data from SDP (Streaming Data Platform) and perform analysis and load the data to Analytical Cloud Datawarehouse.
+- Automated financial data extraction using SQL and integrated it into a centralized data warehouse for streamlined reporting.
+- Designed a real-time Tableau dashboard to track KPIs (revenue, expenses, profit margins), reducing reporting time by 80% and enhancing decision-making efficiency.
+- Conducted exploratory analysis using SQL and SPSS, leveraging what-if scenarios to evaluate the impact of pricing changes on enrolments and profitability.
+- Presented Tableau insights recommending a tiered pricing strategy, boosting premium course enrolments by 10% and annual revenue by $50,000.
+- Automated data transformations and reporting workflows using Excel Power Query and VBA, reducing manual effort by 60% and improving efficiency.
+- Analysed classroom utilization, faculty workloads, and material usage using SQL; designed Power BI dashboards to optimize resource allocation, reducing operational costs by 12% ($25,000 annually).
+- Write complex SQL scripts to analyze data present in different Databases/Datawarehouse's like Snowflake, Teradata, Redshift.
+- Create automated solutions using Databricks, Spark, Python, Snowflake, HTML.
+- Create programs using python to read real time data from SDP (Streaming Data Platform) and perform analysis and load the data to Analytical Cloud Datawarehouse.
 
 **Business Data analyst @ Vipro | India - Internship  (_May, 2018 – April, 2019_)**				      
-•	Created daily, monthly reports, data models and over 10+ dynamic dashboards in Power BI and Tableau, cutting empowering real-time budget monitoring across the organization.
-•	Involve in the business and functional requirements gathering with different batch teams for creating new.
-•	Optimised SQL Queries to increase operational efficiency by automating repetitive tasks using Python in the data analysis workflow, reducing processing time by 40%.
-•	Collaborated with cross-functional teams to initiate actionable insights through data visualizations, elevated stakeholder satisfaction scores by 70% and reducing decision-making time by 15%.
-•	Created a predictive model in Python using machine learning libraries (scikit-learn) to forecast enrolments based on historical data.
-•	Perform thorough QA/QC before staging the data and validate various business critical reports. Assisted the team in developing business strategies based on data.
-•	Create scripts to clean up Database, Windows Server and created database links to retrieve data from multiple servers.
-•	Communicated complex data findings to non-technical teams, facilitating informed policy decisions and operational efficiency.
+- Created daily, monthly reports, data models and over 10+ dynamic dashboards in Power BI and Tableau, cutting empowering real-time budget monitoring across the organization
+- Involve in the business and functional requirements gathering with different batch teams for creating new.
+- Optimised SQL Queries to increase operational efficiency by automating repetitive tasks using Python in the data analysis workflow, reducing processing time by 40%.
+- Collaborated with cross-functional teams to initiate actionable insights through data visualizations, elevated stakeholder satisfaction scores by 70% and reducing decision-making time by 15%.
+- Created a predictive model in Python using machine learning libraries (scikit-learn) to forecast enrolments based on historical data.
+- Perform thorough QA/QC before staging the data and validate various business critical reports. Assisted the team in developing business strategies based on data.
+- Create scripts to clean up Database, Windows Server and created database links to retrieve data from multiple servers.
+- Communicated complex data findings to non-technical teams, facilitating informed policy decisions and operational efficiency.
 
 ## Certifications
-•	SAP Associate Business Process Integration S-4 Hana. 
+- SAP Associate Business Process Integration S-4 Hana. 
 
 
 ## Projects
