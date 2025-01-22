@@ -8,8 +8,8 @@
 - Recognition: OMIS Student Excellence Award Recipient, Beta Gamma Sigma Member, Member of ACSM.
 
 **Jawaharlal Nehru technology University | India**
-Electronics and Communication Engineering
-Recognition: Chief Advisor of TAM (Technology Awareness Month) 
+- Electronics and Communication Engineering
+- Recognition: Chief Advisor of TAM (Technology Awareness Month) 
 
 ## Work Experience
 **Data Analyst @ Aptium | United States (_April, 2024 – Present_)**									
