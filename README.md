@@ -4,7 +4,7 @@
 
 ## Education
 **Northern Illinois University | Illinois, United States**
-Master of Science in Management Information Systems, Specialization: Data Analytics [CGPA: 4]
+- Master of Science in Management Information Systems, Specialization: Data Analytics [CGPA: 4]
 
 **Jawaharlal Nehru technology University | India**
 Electronics and Communication Engineering
