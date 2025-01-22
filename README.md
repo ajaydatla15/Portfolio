@@ -5,6 +5,7 @@
 ## Education
 **Northern Illinois University | Illinois, United States**
 - Master of Science in Management Information Systems, Specialization: Data Analytics [CGPA: 4]
+- Recognition: OMIS Student Excellence Award Recipient, Beta Gamma Sigma Member, Member of ACSM.
 
 **Jawaharlal Nehru technology University | India**
 Electronics and Communication Engineering
@@ -12,30 +13,29 @@ Recognition: Chief Advisor of TAM (Technology Awareness Month)
 
 ## Work Experience
 **Data Analyst @ Aptium | United States (_April, 2024 – Present_)**									
-•	Created Complex ETL Packages using SSIS to extract data from staging tables to base tables, performing sanity check for integrity of the data and removal of bad data.
-•	Designed and developed SSIS Packages to extract data from various data sources such as Access database, Excel spreadsheet and flat files into SQL server for further Data Analysis 
-  and Reporting by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split, merge, union all and lookup transformation and send mail task.
-•	Analyse source system data, profile data, create metadata definitions; define data attributes for data flow & lineage and creating source-to-target mapping.
-•	Use Power BI to pull Data from other OLTP AND OLAP systems and from flat files and Excel files to build dashboards and Reports for the business users as Required
-•	Document technical ETL specifications for the data warehouse. Perform periodic T-SQL code reviews and test plans to ensure high performance, data quality and integrity.
-•	Create database objects like Stored procedure, Functions, Views, indexes, and triggers to base on the business requirements documents and user requests
-•	Collaborate with team members in the Dev environment to promote all T-SQL Code, SSIS Package, Reports and all other
-•	Database Object into source control using Team Foundation Server (TFS), and GitHub.
-•	Designed cubes to satisfy the senior management requirement, deployed the cube into different environments and created KPl's and dashboard reports and extensively written MDX          queries in report generation
-•	Involved in Performance Tuning of Stored Procedures and SQL queries using SQL Profiler and Index Tuning Wizard in SSIS.
-•	Generated functional and technical documentation including as-built documents, dashboard design specifications, operating manuals, release notes, and security requirements for reports generated and maintained.
+- Created Complex ETL Packages using SSIS to extract data from staging tables to base tables, performing sanity check for integrity of the data and removal of bad data.
+- Designed and developed SSIS Packages to extract data from various data sources such as Access database, Excel spreadsheet and flat files into SQL server for further Data Analysis and Reporting by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split, merge, union all and lookup transformation and send mail task.
+- Analyse source system data, profile data, create metadata definitions; define data attributes for data flow & lineage and creating source-to-target mapping.
+- Use Power BI to pull Data from other OLTP AND OLAP systems and from flat files and Excel files to build dashboards and Reports for the business users as Required
+- Document technical ETL specifications for the data warehouse. Perform periodic T-SQL code reviews and test plans to ensure high performance, data quality and integrity.
+- Create database objects like Stored procedure, Functions, Views, indexes, and triggers to base on the business requirements documents and user requests
+- Collaborate with team members in the Dev environment to promote all T-SQL Code, SSIS Package, Reports and all other
+- Database Object into source control using Team Foundation Server (TFS), and GitHub.
+- Designed cubes to satisfy the senior management requirement, deployed the cube into different environments and created KPl's and dashboard reports and extensively written MDX          queries in report generation
+- Involved in Performance Tuning of Stored Procedures and SQL queries using SQL Profiler and Index Tuning Wizard in SSIS.
+- Generated functional and technical documentation including as-built documents, dashboard design specifications, operating manuals, release notes, and security requirements for reports generated and maintained.
 
 **Machine Learning Analyst @ UTM | United States (_January, 2023 – March, 2024_)**				      
-•	Developed a battery health score based on real-time by Using SQL to consolidate historical, charge cycles, temperature, and degradation data and Developed a scoring system in Python.
-•	Created ETL pipelines to extract data from various data sources and saved the data in the data warehouse.
-•	Designed Tableau Reports and dashboards for stakeholders to monitor battery health, improving stakeholder communication by 60%.
-•	Developed CNN based Classification and Regression Models to analyse battery microstructure characteristics. Achieved a notable accuracy of 71%, providing insights into battery performance metrics.
-•	Designed unsupervised learning models for Image Generation like VAE and GAN to generate high-quality synthetic images from unlabelled data, enhancing training efficiency.
-•	Built a U-Net architecture for semantic segmentation of battery electrode microstructure images. Trained on a dataset of ~6,000 images, achieving an IoU score of 80%, improving the understanding of material composition.
-•	Created pivot tables, visual diagrams and products of interest for senior leadership to detect and trace data trends
+- Developed a battery health score based on real-time by Using SQL to consolidate historical, charge cycles, temperature, and degradation data and Developed a scoring system in Python.
+- Created ETL pipelines to extract data from various data sources and saved the data in the data warehouse.
+- Designed Tableau Reports and dashboards for stakeholders to monitor battery health, improving stakeholder communication by 60%.
+- Developed CNN based Classification and Regression Models to analyse battery microstructure characteristics. Achieved a notable accuracy of 71%, providing insights into battery performance metrics.
+- Designed unsupervised learning models for Image Generation like VAE and GAN to generate high-quality synthetic images from unlabelled data, enhancing training efficiency.
+- Built a U-Net architecture for semantic segmentation of battery electrode microstructure images. Trained on a dataset of ~6,000 images, achieving an IoU score of 80%, improving the understanding of material composition.
+- Created pivot tables, visual diagrams and products of interest for senior leadership to detect and trace data trends
 
 **Data Analyst @ "US Company"| United States (_January, 2021 - December, 2022_)**				      
-•	Implemented Role-Based Access Control (RBAC) and row-level security in Snowflake through the extraction of data from spreadsheets and loading it into the platform. 
+- Implemented Role-Based Access Control (RBAC) and row-level security in Snowflake through the extraction of data from spreadsheets and loading it into the platform. 
 •	Executed in-depth statistical analysis using SPSS to identify factors affecting conversion rates and coordinated with cross-functional teams to implement strategies that generated $1.5 million through conversions. 
 •	Designed personalized campaigns using Tableau to analyze departmental performance, increasing departmental efficiency and engagement by 30%.
 •	Designed social media content using Tableau, Buffer, and Excel to identify high-performing posts, optimize call-to-action placements, and revamp content strategy, resulting in an increase of 40% in audience engagement.
