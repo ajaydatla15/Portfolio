@@ -16,14 +16,14 @@ Recognition: Chief Advisor of TAM (Technology Awareness Month)
 ## Work Experience
 **Data Analyst @ Aptium | United States (_April, 2024 – Present_)**									
 •	Created Complex ETL Packages using SSIS to extract data from staging tables to base tables, performing sanity check for integrity of the data and removal of bad data.
-•	Designed and developed SSIS Packages to extract data from various data sources such as Access database, Excel spreadsheet and flat files into SQL server for further Data Analysis and Reporting by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split, merge, union all and lookup transformation and send mail task.
+•	Designed and developed SSIS Packages to extract data from various data sources such as Access database, Excel spreadsheet and flat files into SQL server for further Data Analysis      and Reporting by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split, merge, union all and lookup transformation and send mail task.
 •	Analyse source system data, profile data, create metadata definitions; define data attributes for data flow & lineage and creating source-to-target mapping.
 •	Use Power BI to pull Data from other OLTP AND OLAP systems and from flat files and Excel files to build dashboards and Reports for the business users as Required
 •	Document technical ETL specifications for the data warehouse. Perform periodic T-SQL code reviews and test plans to ensure high performance, data quality and integrity.
 •	Create database objects like Stored procedure, Functions, Views, indexes, and triggers to base on the business requirements documents and user requests
 •	Collaborate with team members in the Dev environment to promote all T-SQL Code, SSIS Package, Reports and all other
 •	Database Object into source control using Team Foundation Server (TFS), and GitHub.
-•	Designed cubes to satisfy the senior management requirement, deployed the cube into different environments and created KPl's and dashboard reports and extensively written MDX queries in report generation
+•	Designed cubes to satisfy the senior management requirement, deployed the cube into different environments and created KPl's and dashboard reports and extensively written MDX          queries in report generation
 •	Involved in Performance Tuning of Stored Procedures and SQL queries using SQL Profiler and Index Tuning Wizard in SSIS.
 •	Generated functional and technical documentation including as-built documents, dashboard design specifications, operating manuals, release notes, and security requirements for reports generated and maintained.
 
