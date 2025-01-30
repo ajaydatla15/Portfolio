@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, R, AWS, ETL, Snowflake, Machine Learning.
+#### Technical Skills: Python, SQL, R, AWS, ETL, Snowflake, Machine Learning, AI.
 
 ## Education
 **Northern Illinois University | Illinois, United States**
